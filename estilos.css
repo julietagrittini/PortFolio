@@ -47,7 +47,7 @@ body {
 }
 
 .boton1 {
-	background: hsl(50, 41%, 61%);
+	background:#FFD600;
 	display: block;
 	width: 100%;
 	font-weight: bold;
