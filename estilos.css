@@ -48,6 +48,21 @@ body {
 	
 }
 
+.card .boton {
+	background: hsl(50, 41%, 61%);
+	display: block;
+	width: 100%;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+	padding: 10px;
+	border: none;
+	border-radius: 100px;
+	font-family: 'Roboto', sans-serif;
+	cursor: pointer;
+}
+
+
 .card .textos {
 	height: 100%;
 	
@@ -95,6 +110,13 @@ body {
 	font-family: 'Roboto', sans-serif;
 	cursor: pointer;
 }
+
+.enlaces:link, .enlaces:visited, .enlaces:active, .enlaces.hover {
+	text-decoration:none;
+	color: #fff;
+}
+
+
 
 @media screen and (max-width: 900px) {
 	
