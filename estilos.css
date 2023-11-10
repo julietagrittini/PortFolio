@@ -111,25 +111,13 @@ body {
 }
 
 .contenedorPagina {
-	width: 80%;
-	max-width: 80%;
-	margin: auto;
-	padding: 40px;
-	display: grid;
-	grid-template-columns: 1fr;
-	gap: 20px;
-
 	
-}
-.cardPagina {
-	border-radius: 10px;
-	min-height: 1500px;
-	font-weight: bold;
+
 	padding: 20px;
 	
-	
-
 }
+
+
 .enlaces:link, .enlaces:visited, .enlaces:active, .enlaces.hover {
 	text-decoration:none;
 	color: #fff;
