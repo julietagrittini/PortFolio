@@ -10,6 +10,27 @@ body {
 	font-family: 'Roboto', sans-serif;
 }
 
+
+.contenedorIndex{
+	 
+	width: 80%;
+	/*background-color: #FFD600;*/
+	margin: auto;
+	padding: 40px 0;
+	display: grid;
+	grid-template-columns: 1fr;
+	
+	gap: 20px;
+	
+}
+.contenedorReferencia{
+	height: 500px;
+	padding-top: 20%;
+	/*background-color: gray;*/
+	align-content:space-between;
+	text-align: center;
+	
+}
 .contenedor {
 	width: 90%;
 	max-width: 1200px;
